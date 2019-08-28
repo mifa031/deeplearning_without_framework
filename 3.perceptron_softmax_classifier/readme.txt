@@ -1,5 +1,5 @@
 softmax classification
-single perceptron
+single layer perceptrons
 
 using faulty-steel-plates dataset
 predict 'fault type'
